@@ -1,0 +1,10 @@
+C:\Users\DAVER108\source\repos\Pico_Placa\bin\Debug\Pico_Placa.exe.config
+C:\Users\DAVER108\source\repos\Pico_Placa\bin\Debug\Pico_Placa.exe
+C:\Users\DAVER108\source\repos\Pico_Placa\bin\Debug\Pico_Placa.pdb
+C:\Users\DAVER108\source\repos\Pico_Placa\obj\Debug\Pico_Placa.csprojAssemblyReference.cache
+C:\Users\DAVER108\source\repos\Pico_Placa\obj\Debug\Pico_Placa.Inicio.resources
+C:\Users\DAVER108\source\repos\Pico_Placa\obj\Debug\Pico_Placa.Properties.Resources.resources
+C:\Users\DAVER108\source\repos\Pico_Placa\obj\Debug\Pico_Placa.csproj.GenerateResource.cache
+C:\Users\DAVER108\source\repos\Pico_Placa\obj\Debug\Pico_Placa.csproj.CoreCompileInputs.cache
+C:\Users\DAVER108\source\repos\Pico_Placa\obj\Debug\Pico_Placa.exe
+C:\Users\DAVER108\source\repos\Pico_Placa\obj\Debug\Pico_Placa.pdb
